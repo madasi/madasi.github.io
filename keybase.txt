@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/madasi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.madasi.com
+  * I am madasi (https://keybase.io/madasi) on keybase.
+  * I have a public key with fingerprint 2E7A 8381 F585 4881 1CBC  5B53 676F C405 16B5 C435
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "2e7a8381f58548811cbc5b53676fc40516b5c435",
+            "host": "keybase.io",
+            "key_id": "676FC40516B5C435",
+            "uid": "c7a668d07ebd854a4251e614dd9cf419",
+            "username": "madasi"
+        },
+        "merkle_root": {
+            "ctime": 1433304921,
+            "hash": "8655eac39db0f39636e3deeac71a6e185561f95c1f669070e2722d84dfe1d63e9f92a1322680094fc415f64a4385ca3530865c6577bd1d838f2cedc3a92d96c1",
+            "seqno": 237024
+        },
+        "service": {
+            "hostname": "www.madasi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433305189,
+    "expire_in": 157680000,
+    "prev": "52631985bf3f03b235b0e1449bd9dd1d122c21a84b926f8adaf4dc50fb8a78d7",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVkntQFWUYxg8XGWFixMYSI1LXghjxtN/ufnuhGFQEMnIKCsQAD3v59rBczh73
+HIETIhSNDQwRhAIzBSWM2GlSyHHIYCLwAhIlIuQfYjDjBEkjEJdyJoZsF2nK/77L
+733e53m/r8rfy+TnAWd+bveZe+GUx8CUYEqylRwqxARVcmERhZiYoyCb01jZ+FyE
+RWDZyCXwDmRW1C02VULmLMeWVSYcy0OaQ1FtOoWbGTOHFYUbuFEsKzYr0uyaYmhh
+BGJ4lmSBDFlIsSwAoiBCAZI0Q8sihUNAC1CkSKhLZqoO5yNdsRVNiyLppzofG73C
+74bRD/nDKxciw9M0K+EMEiS9BU8RECAaUJLEiTIFOAN0IG01Ui4v8Q7FcJuLtOwc
+ZNFUdSWy6FQMAFAkSeIURwDdD+/I1EtYGkLEiyQnCbhMcjRJI1JC+gkDeBoBFkIa
+yBwUgUzTHM7giGAIQmIpSUZAoknEyRzBA5IgaBbHOUpPDaBM60ZJFoo8CUlc7yDS
+kGEECUj6rGRCRJJI8hwhcbQI9AAOdMimYhEEyeAEVWTstTxFRIZvY2ir2fLz880P
+85lFNVcvs2uqUxXVHP0u0+m0RxixnS77CosEy5lVGYug2CT90f7/qkBHHxkJBCwX
+jqECu6Ihi2IQkDEC4bjRB+XpmpCgScCxUJBJGScFgoQCjgBFcYLESXo0QBAiAXiW
+EjiCllndqUxJIsRlgeUZVmL+C8roPnmrLulQrDbeeVhDWFGZ59PeJg8/k88aT+Pb
+mvx8A/79y2k5AaammtHoK/FU3ydONW1s7KfGUL/Q1JSWO68e29FU+4WpqCnl25GM
+ybXXPPeae3+3vFsXeUA717Vf2hg6/GxbZ7X30rEkc//dmer2Ds+F+u9A1nYlWenN
+aQjq6a2YvUHXxzdNW15cWkxXLxTGN1+w500PjWbGzr01knq0ebglN7EUL/ErGH5+
+am/FxcCt+5OwDo/82T6fqasb0t47caenMnGTl725uNHl8dg7Xc2upIm5hkibaXb8
+w9bOYtS9/cGC0N165ayvOzx7nL59LTVveS5s4Mzk8fIbHkEbazsLPNPnh8peLp1Q
+xqyb35jZZcmgtsbXJm/7bTA2ynr3gydda6ouv+bOjKm59b0puLLzzeC2ocDnht1U
+Xem+jLBPzw14mcbE4eq3yYxbiwnrMrSWqV2+fb/mLy49UZtw/KVoUwh2NKHmlT+/
+/mHnkUsTlSXOrFTbePTkEh1y0H+ivCojeSCkfLn1F3eKG183WPaR+v7nw5daX7+/
+PrLJwrELdV7Fycun9wQEd0z2+1//QyoddT/VPHh5s9M7+8e82PTZ+m1p5+W5rgV3
+jGsWjlyP4b5qq9gR037ydEPU3wcDohJD48JO0gem3bnZt5eO3BwdC3yQZH1mcW1s
+T81nEyWNpO/HLfu+TAnaHRdnB3/ZCi7efPybe/DUzoLu+9YThWf3zPdrDTXn762f
+33BV2dT/Dw==
+=hNHV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/madasi
+
+==================================================================
